@@ -31,4 +31,4 @@ Pilih salah satu opsi:
 - Usman HS (10.048.DB2025)
   
 **LINK PDF SLIDE**
-[PPT%20KELOMPOK%203_compressed](https://github.com/Asfa-Asfialana/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/blob/Submit-Task-1/PPT%20KELOMPOK%203_compressed.pdf)
+[KONSERVASI_MANGROVE_PPT_KEL3](https://github.com/Asfa-Asfialana/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/blob/Submit-Task-1/KONSERVASI_MANGROVE_PPT_KEL3.pdf)
