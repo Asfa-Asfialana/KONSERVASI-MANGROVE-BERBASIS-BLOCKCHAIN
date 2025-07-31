@@ -19,8 +19,9 @@ Pilih salah satu opsi:
 - Link Langsung ke PDF di GitHub
 [Tutorial Konservasi Mangrove di Indonesia.pdf](https://github.com/arry-hutomo/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/blob/main/Tutorial%20Konservasi%20Mangrove%20di%20Indonesia.pdf)
 
+------
 
-### Kelompok 3
+### Kelompok 3 BATCH 10
 -----
 
 - Asfa Asfialana (10.037.DB2025)
